@@ -3,6 +3,13 @@
 Write a program similar to ``` ls ``` ``` ls -l ``` ``` ls -a ``` ``` ls -R ```
 
 
+#### Compilation command :
+
+```
+$ make
+```
+
+
 #### Examples of the output :
 
 ``` ls ```
