@@ -33,7 +33,6 @@ int main(int argc, char **argv)
 	if ((option_val = getopt(argc, argv, "laRep")) == -1)
 	{
 		list_files(0, argc, argv, 1, 2, NO_HIDDEN_FILES);
-		return 0;
 	}
 	
 	return 0;
